@@ -1,0 +1,23 @@
+{
+  "studentProfile": {
+    "grade": "고2",
+    "track": "자연·공학계열",
+    "gpa": 2.3,
+    "gpaKorean": 2.5,
+    "gpaMath": 1.8,
+    "gpaEnglish": 2,
+    "gpaInquiry": 2.2,
+    "mockKorean": 3,
+    "mockMath": 2,
+    "mockEnglish": 2,
+    "mockInquiry": 2,
+    "targetUniversities": "성균관대, 한양대, 중앙대, 경희대",
+    "targetMajor": "컴퓨터공학과 / 인공지능학과",
+    "memo": "수학 성적이 비교적 우수하며, 수시 학종으로 수도권 상위권 공대를 가고 싶습니다. 세특에서 AI 최적화 알고리즘 탐구를 녹여내고 싶습니다."
+  },
+  "chatSessions": [],
+  "studyPlans": [],
+  "checklistState": {},
+  "diagnosticReports": [],
+  "setekHistory": []
+}

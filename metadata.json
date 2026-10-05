@@ -1,0 +1,8 @@
+{
+  "name": "패스파인더 (PathFinder) - AI 대입 진학 상담 & 입시 컨설팅",
+  "description": "고등학생을 위한 맞춤형 대입 상담 솔루션. 수시·학종, 정시·수능 전략, 학생부 세특 탐구주제 기획 및 1:1 맞춤형 AI 입시 멘토링을 제공합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
